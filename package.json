@@ -1,7 +1,7 @@
 {
-  "name": "chapter19_babel-webpack",
+  "name": "UI Library",
   "version": "1.0.0",
-  "description": "",
+  "description": "UI Library for the final project of the Road to Ninja course",
   "main": "index.js",
   "scripts": {
     "build": "node_modules/.bin/webpack --mode production",
